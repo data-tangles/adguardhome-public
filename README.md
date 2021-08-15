@@ -7,6 +7,6 @@ Steps to run:
 
 - Copy the compose file to your Docker host and rename the file to docker-compose.yml
 - Edit the values under Environment:TZ and volumes: to match your locale and storage setup
-- Run docker-compose up
+- Run docker-compose up -d
 
 The original setup is available at: https://github.com/AdguardTeam/AdGuardHome/wiki/Docker
