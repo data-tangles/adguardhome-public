@@ -5,6 +5,8 @@ The official Docker guide at AdGuard home seems to lack a compose file for deply
 
 Steps to run: 
 
-> Copy the compose file to your Docker host and rename the file to docker-compose.yml
-> Edit the values under Environment:TZ and volumes: to match your locale and storage setup
-> Run docker-compose up
+- Copy the compose file to your Docker host and rename the file to docker-compose.yml
+- Edit the values under Environment:TZ and volumes: to match your locale and storage setup
+- Run docker-compose up
+
+The original setup is availabe at: https://github.com/AdguardTeam/AdGuardHome/wiki/Docker
