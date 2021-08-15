@@ -9,4 +9,4 @@ Steps to run:
 - Edit the values under Environment:TZ and volumes: to match your locale and storage setup
 - Run docker-compose up
 
-The original setup is availabe at: https://github.com/AdguardTeam/AdGuardHome/wiki/Docker
+The original setup is available at: https://github.com/AdguardTeam/AdGuardHome/wiki/Docker
